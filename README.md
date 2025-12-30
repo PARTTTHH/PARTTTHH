@@ -30,7 +30,7 @@
 
 ###
 
-<p align="center">MACHINE LERNING STUFF</p>
+<p align="center">MACHINE LEARNING STUFF</p>
 
 ###
 
@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PARTTTHH/PARTTTHH/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PARTTTHH/PARTTTHH/output/github-contribution-grid-snake.svg" />
 
 ###
