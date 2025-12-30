@@ -42,17 +42,18 @@
 
 <p align="center">CONNECT WITH ME!</p>
 
+
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/parth-pungaonkar-01045b354?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfNGDNaOfSaaS3%2BEaiKU2eA%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
   </a>
   <a href="parthpungawkar12345@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/parth_pungaonkar?igsh=YmZoOTdmc3gzMDBr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
   </a>
 </div>
 
