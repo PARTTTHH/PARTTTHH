@@ -23,7 +23,7 @@ Python · Django · DRF · PostgreSQL · JavaScript · Java · C
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PARTTTHH/PARTTTHH/output/github-contribution-grid-snake-dark.svg" />
+<!-- <img src="https://raw.githubusercontent.com/PARTTTHH/PARTTTHH/output/github-contribution-grid-snake-dark.svg" /> -->
 
 ###
 
